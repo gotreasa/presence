@@ -1,0 +1,476 @@
+{
+  "awards": [
+    {
+      "issuer": "IBM",
+      "portfolio": [
+        "Gearoid is Growth Minded because he is always willing to learn and grow, and he is committed to helping others do the same. He has demonstrated this by sharing his experience and software craftsmanship expertise with others, encouraging teams to adopt an outward mindset culture, and educating individuals in using data analysis to improve software delivery outcomes."
+      ],
+      "short": "Growth Minded recognition",
+      "title": "Peer-to-Peer Recognition, Growth Minded",
+      "year": "2023-05"
+    },
+    {
+      "issuer": "IBM",
+      "portfolio": [
+        "Recognised for delivering code retreats that taught test-driven development, pair programming and clean code."
+      ],
+      "short": "Manager's Choice",
+      "title": "Manager's Choice Award",
+      "year": "2017-11"
+    },
+    {
+      "issuer": "IBM",
+      "portfolio": [
+        "Awarded for leading the My Sales Activity squad to deliver a Born in the Cloud application, pioneering that approach in the organisation."
+      ],
+      "short": "Outstanding Technical Achievement",
+      "title": "Outstanding Technical Achievement Award, My Sales Activity, Born in the Cloud Initiative",
+      "year": "2017-08"
+    },
+    {
+      "issuer": "IBM",
+      "portfolio": [
+        "Chosen in a global vote of IBM employees, for the IBM Connections toolbar for Firefox."
+      ],
+      "short": "People's Innovation Choice",
+      "title": "People's Innovation Choice, Connections Toolbar for Firefox",
+      "year": "2014-10"
+    },
+    {
+      "issuer": "IBM",
+      "portfolio": [
+        "Earned for SalesConnect deployment automation and the architecture of uCommand, a command-line tool closing the gaps in IBM UrbanCode Deploy."
+      ],
+      "short": "Outstanding Technical Achievement",
+      "title": "Outstanding Technical Achievement Award, SalesConnect Deployment Automation and uCommand Tool",
+      "year": "2014-11"
+    },
+    {
+      "issuer": "IBM",
+      "portfolio": [
+        "Led and developed the SalesConnect team in Dublin through its 2013 redesign and integration of collaboration features."
+      ],
+      "short": "Leadership Excellence",
+      "title": "Leadership Excellence Award",
+      "year": "2013-11"
+    }
+  ],
+  "blocks": {
+    "services": "- **Software Craftsmanship Coach.** Elevate your software development team to elite, to rapidly deliver products that delight the users. - **DevOps Coach.** Coach your DevOps team to incrementally improve your pipeline to elite. - **Software Development Consultant.** Deliver applications in JavaScript, TypeScript or Python through to production. - **DevOps Consultant.** Work with your team on improving the pipeline and building out the functionality needed.",
+    "short_bio": "Gearóid Ó Treasaigh is a software craftsmanship coach. He works inside engineering organisations, moving teams towards test-driven development, continuous delivery and clean code, and coaching the managers and product people alongside them, because a practice change that does not survive contact with product and management does not survive at all. He spent fifteen years at IBM as a developer, a lead and an architect before coaching full time, and now runs Untangled Code and is a partner at BriX Consulting. From 2024 to September 2026 he worked on an Extreme Programming and digital product upskilling programme inside a Fortune 100 insurer, delivered across three continents.",
+    "skills": "Bash, CSS, HTML, Java, JavaScript, Python, SQL and TypeScript. He also coaches teams on a Fortune 100 engagement working across COBOL on a mainframe, C#, VB, Java, Python and JavaScript, which is Extreme Programming coaching in those environments rather than development in them.",
+    "work_with_me": "Looking for a digital transformation, or struggling to deliver new features that truly delight your users? Gearóid works freelance across four kinds of engagement: coaching a development team towards software craftsmanship, coaching a DevOps team to improve its pipeline, consulting on delivery in JavaScript, TypeScript or Python, and consulting on pipeline and platform work alongside your team. An appointment can be booked directly."
+  },
+  "certifications": [
+    {
+      "credential_url": "https://www.icagile.com/credentials/581ac05b-0338-432f-8119-d7014066e783",
+      "issued": "2023-06-18",
+      "issuer": "ICAgile",
+      "name": "Agile Coaching"
+    },
+    {
+      "credential_url": "https://www.credly.com/badges/91e74391-f214-4793-9feb-547f9d7256d3/public_url",
+      "issued": "2023-06-06",
+      "issuer": "ICAgile",
+      "name": "Agile Team Facilitation"
+    },
+    {
+      "issued": "2023-04-20",
+      "issuer": "Salesforce",
+      "name": "Salesforce Certified Slack Administrator"
+    },
+    {
+      "issued": "2023-04-01",
+      "issuer": "IBM",
+      "name": "IBM Garage Foundation"
+    },
+    {
+      "credential_url": "https://www.credly.com/badges/0087c7bd-d19d-4864-b7cf-dd553a53cd21/public_url",
+      "issued": "2023-03-29",
+      "issuer": "IBM",
+      "name": "XP Farm XP Coach"
+    },
+    {
+      "issued": "2022-11-29",
+      "issuer": "IBM",
+      "name": "XP Farm Experienced XP Developer"
+    },
+    {
+      "credential_url": "https://www.credly.com/badges/b5ed2eb5-c69a-4ac5-8676-b4e4ef268f45/public_url",
+      "issued": "2022-11-01",
+      "issuer": "IBM",
+      "name": "IBM Career Coach"
+    },
+    {
+      "credential_url": "https://www.credly.com/badges/b4aad79f-733b-4d21-960c-939a699bdfca/public_url",
+      "issued": "2022-10-25",
+      "issuer": "IBM",
+      "name": "Blue Core Coaching Supervisor"
+    },
+    {
+      "expires": "2024-03-15",
+      "issued": "2022-03-15",
+      "issuer": "IBM",
+      "name": "IBM Recognized Teacher/Educator"
+    },
+    {
+      "issued": "2022-02",
+      "issuer": "Arbinger Institute",
+      "name": "Developing and Implementing an Outward Mindset"
+    },
+    {
+      "issued": "2020-07-30",
+      "issuer": "IBM",
+      "name": "Enterprise Design Thinking Practitioner"
+    },
+    {
+      "credential_url": "https://www.credly.com/badges/1491a972-1d96-4837-832a-9759e91ccc5e/public_url",
+      "issued": "2019-06-06",
+      "issuer": "IBM",
+      "name": "Blue Core Coach"
+    },
+    {
+      "issued": "2017-12-09",
+      "issuer": "IBM",
+      "name": "IBM Agile Explorer"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science (Honours) in Computing Studies",
+      "end": "2008-06",
+      "honours": "First class honours (1:1)",
+      "school": "University of Galway",
+      "school_short": "University of Galway",
+      "start": "2004-09",
+      "thesis": "Porting pkgsrc from NetBSD to MINIX"
+    }
+  ],
+  "experience": [
+    {
+      "employer": "IBM",
+      "end": "2009-05",
+      "id": "ibm_graduate_web_application_developer",
+      "meta": "Dublin",
+      "portfolio_prose": [
+        "Implemented the 8.5 web release of XPages as a graduate at IBM; XPages ran Notes database applications in a browser and inside the IBM Notes client.",
+        "Worked on the XPages runtime in Java across Windows and Linux.",
+        "Contributed to its documentation, for the team and the customer community, and presented it in house."
+      ],
+      "role": "Graduate Web Application Developer (XPages)",
+      "start": "2008-06",
+      "via": ""
+    },
+    {
+      "employer": "IBM",
+      "end": "2011-03",
+      "id": "ibm_web_application_developer",
+      "meta": "Dublin",
+      "portfolio_prose": [
+        "Worked across the collaboration products, in roles from quality engineering and services work to the front end and search, within IBM Connections and Quickr Domino."
+      ],
+      "role": "Web Application Developer",
+      "start": "2009-05",
+      "via": ""
+    },
+    {
+      "employer": "IBM",
+      "end": "2016-12",
+      "id": "ibm_devops_web_development_lead",
+      "meta": "Dublin",
+      "portfolio_prose": [
+        "Took SalesConnect deployment from up to 72 hours to two hours, freeing 2 people from deployment weekends.",
+        "Ran the first project in IBM's CIO production portfolio to deploy through UrbanCode Deploy, and helped three other product teams adopt the pipeline.",
+        "Built a reproducible template VM that cut environment setup from days to an hour.",
+        "Mentored three colleagues to their band 7 promotions."
+      ],
+      "role": "DevOps & Web Development Lead (SalesConnect)",
+      "start": "2011-03",
+      "via": ""
+    },
+    {
+      "employer": "IBM",
+      "end": "2019-05",
+      "id": "ibm_javascript_full_stack_development_lead",
+      "meta": "Dublin, Ireland",
+      "portfolio_prose": [
+        "Cut the lead time on a new incentive from at least six months to a couple of days, and from a year to a couple of weeks for a complex incentive.",
+        "Transformed incentive creation from a slow Siebel process that needed a contractor engagement to a custom application the business could update quickly.",
+        "Led the team that replaced Siebel piece by piece while live, with My Sales Activity, a single-page application on Node.js."
+      ],
+      "role": "JavaScript Full Stack Development Lead (My Sales Activity)",
+      "start": "2017-01",
+      "via": ""
+    },
+    {
+      "employer": "IBM",
+      "end": "2018-09",
+      "id": "ibm_corporate_service_corps",
+      "meta": "Cape Town, South Africa",
+      "portfolio_prose": [
+        "Selected for IBM's Corporate Service Corps, a programme that accepted 12 to 15% of applicants, and worked on it full time for a month in Cape Town.",
+        "Consulted for Cape Digital Foundation, a non-profit at the Bandwidth Barn incubator and one of the programme's four clients, in a three-person team from the programme.",
+        "Delivered a fundraising strategy for the foundation with that team."
+      ],
+      "role": "Corporate Service Corps (international assignment)",
+      "start": "2018-08",
+      "via": ""
+    },
+    {
+      "employer": "IBM",
+      "end": "2020-10",
+      "id": "ibm_senior_javascript_full_stack_development",
+      "meta": "London, UK",
+      "portfolio_prose": [
+        "Led the tribe that rebuilt deal registration as a single form, taking a partner from 30 minutes down to 5 minutes.",
+        "The new form shows partners their discount up front, so they know their margin before pricing a deal.",
+        "Led the team to meet a tight deadline for moving the CRM behind the platforms from on-premise SugarCRM to the cloud.",
+        "Oversaw the move to OpenShift."
+      ],
+      "role": "Senior JavaScript Full Stack Development Lead (My Sales Activity)",
+      "start": "2019-05",
+      "via": ""
+    },
+    {
+      "employer": "IBM",
+      "end": "2021-12",
+      "id": "ibm_implementation_architect_software_engineering_lead",
+      "meta": "London, UK",
+      "portfolio_prose": [
+        "Architected parts of the deal registration and incentive migration that moved 200k users across 10k partner organisations onto Salesforce.",
+        "The migration ran incrementally rather than in one cutover, through an API layer connecting to both Salesforce and SugarCRM.",
+        "Cut scope on a release far bigger than first estimated, stripping out non-essential embellishment to protect its deadline and the quality bar.",
+        "Led on technical and delivery decisions rather than as a line manager."
+      ],
+      "role": "Implementation Architect & Software Engineering Lead (PRM Salesforce)",
+      "start": "2020-10",
+      "via": ""
+    },
+    {
+      "employer": "IBM",
+      "end": "2023-06",
+      "id": "ibm_software_craftsmanship_coach",
+      "meta": "London, UK",
+      "portfolio_prose": [
+        "Led a software craftsmanship transformation across 1,000 developers in London, Brazil and Mexico.",
+        "Took teams to green belt in XP Farm, IBM's Extreme Programming programme, a certification graded on delivered work rather than self-report.",
+        "Taught students who became coaches and co-led later cohorts.",
+        "Created and delivered a data-analysis course in Python and Jupyter Notebooks that cut report recreation from two hours to five minutes, for analysts and support staff as well as developers."
+      ],
+      "role": "Software Craftsmanship Coach",
+      "start": "2022-01",
+      "via": ""
+    },
+    {
+      "employer": "Untangled Code Ltd",
+      "end": "present",
+      "id": "untangled_code_ltd_founder_technical_coach",
+      "meta": "United Kingdom",
+      "portfolio_prose": [
+        "Coach teams from mediocre development practice to software craftsmanship, and on culture and ways of working.",
+        "Contribute to nWave, an AI-agent delivery methodology designed by others, improving it through use on live client delivery.",
+        "Built Vita, an AI assistant for contractors at the BriX partnership that drafts CVs, cover letters and LinkedIn profiles only from what each person has done."
+      ],
+      "role": "Founder & Technical Coach",
+      "start": "2023-12",
+      "via": ""
+    },
+    {
+      "employer": "Untangled Code Ltd",
+      "end": "present",
+      "id": "brix_consulting_s_r_o_technical_agile_coach",
+      "meta": "London",
+      "portfolio_prose": [
+        "Take developers through the Software Craftsmanship Dojo, BriX Consulting's own graded programme, to its graduation standard.",
+        "Deliver the firm's client engagements as a partner and technical agile coach, through Untangled Code, which sub-contracts to BriX."
+      ],
+      "role": "Technical Agile Coach & Partner, BriX Consulting s.r.o.",
+      "start": "2023-12",
+      "via": "untangled_code_ltd_founder_technical_coach"
+    },
+    {
+      "employer": "Untangled Code Ltd",
+      "end": "2024-03",
+      "id": "nederlandse_spoorwegen_software_craftsmanship",
+      "meta": "Remote",
+      "portfolio_prose": [
+        "Coached one team of 15, one of two teams in a pilot that went on to a multi-year contract, delivering BriX Consulting's Software Craftsmanship Dojo to Nederlandse Spoorwegen, the Dutch national railway.",
+        "Over three months, the team trained towards a standard graded on delivered work rather than self-report: a solo two-hour timeboxed delivery, written test-first under strict red-green-refactor at full test coverage, which the Dojo calls Yellow Belt."
+      ],
+      "role": "Software Craftsmanship Coach, Nederlandse Spoorwegen",
+      "start": "2024-01",
+      "via": "brix_consulting_s_r_o_technical_agile_coach"
+    },
+    {
+      "employer": "Untangled Code Ltd",
+      "end": "2026-09",
+      "id": "insurer_enterprise_technical_instructor",
+      "meta": "Remote",
+      "portfolio_prose": [
+        "Personally taught 800 of the over 3,000 engineers and product managers reached by an Extreme Programming and digital product upskilling programme inside a Fortune 100 insurer.",
+        "Coached up to five cross-functional teams at a time, including COBOL teams.",
+        "Coached three levels of leadership in both engineering and product above those teams on giving them cover to change.",
+        "Delivered on a programme that achieved published gains for the client on three of the four industry-standard software-delivery measures."
+      ],
+      "role": "Enterprise Technical Instructor",
+      "start": "2024-05",
+      "via": "brix_consulting_s_r_o_technical_agile_coach"
+    }
+  ],
+  "facts": {
+    "code_retreat.per_event": "Up to 20 developers per retreat",
+    "cost_savings.development": "Almost 90%",
+    "craftsmanship.executive_audience": "two CTOs and a vice president",
+    "csc.clients": "four clients",
+    "csc.eligibility": "two years' tenure, a high performance rating, a manager recommendation and a history of volunteering",
+    "csc.selectivity": "12 to 15% of applicants",
+    "csc.subteam": "a three-person team",
+    "csc.team": "Fifteen people across nine countries",
+    "deploy.hours_saved": "over 2,000 hours a year",
+    "deploy.ops_freed": "2 people",
+    "deploy.phrasing": "from up to 72 hours to two hours",
+    "gsmith.agents": "authoring and review toolkit for training curriculum",
+    "gsmith.cycle_time": "a module that would have taken a week to write and review could be done in a day, depending on complexity",
+    "gsmith.other_authors": "now used by other authors",
+    "insurer.co_delivery": "alongside up to three instructors",
+    "insurer.cohort_cli": "cut a slow manual process from an hour to a couple of minutes per cohort",
+    "insurer.cohort_size": "cohorts of 13 to 50",
+    "insurer.continents": "three continents",
+    "insurer.leadership_levels": "three levels of leadership in both engineering and product",
+    "insurer.programme_shape": "two weeks of hands-on training followed by six weeks of embedded coaching",
+    "insurer.reach": "Over 3,000",
+    "insurer.taught_personally": "800",
+    "insurer.teams_concurrent": "up to five cross-functional teams",
+    "jcf.vulns_after": "zero",
+    "jcf.vulns_before": "12, one of them critical",
+    "mysa.business_partners": "10k",
+    "mysa.complex_lead_time": "from a year to a couple of weeks for a complex incentive",
+    "mysa.deal_registration": "from 30 minutes down to 5 minutes",
+    "mysa.end_users": "200k",
+    "mysa.incentive_lead_time": "cut the lead time on a new incentive from at least six months to a couple of days",
+    "mysa.leads_coached": "3 people",
+    "mysa.squad_size": "6 people",
+    "mysa.tribe_size": "18 developers",
+    "ns.belt": "Yellow Belt",
+    "ns.cohort": "one team of 15",
+    "ns.pilot": "one of two teams in a pilot that went on to a multi-year contract",
+    "outward_mindset.community": "Over 260 people",
+    "reporting.phrasing": "created and delivered a data-analysis course in Python and Jupyter Notebooks that cut report recreation from two hours to five minutes",
+    "salesconnect.env_setup": "from days to an hour",
+    "salesconnect.team_size": "3 to 8 developers",
+    "salesforce.migrants": "200k users",
+    "shared_vocabulary.scope": "1,000 developers",
+    "toolbar.users": "over 6,000 users",
+    "vita.composition": "Two agents, thirteen skills",
+    "vita.evaluation": "evaluated changes to the agent with pre-registered, blind-graded A/B experiments, confirming one that cut its starting context by more than half and catching a confidentiality defect that a fix then kept out of every final output in a retest",
+    "xpages.team_size": "13 people"
+  },
+  "generation": {
+    "content_hash": "ada5f4cbf10101b3980713d19e9b6597701d0a245f46ba939604dfa8ad57d7e3",
+    "derived_from": [
+      "ssot/facts.yaml",
+      "ssot/presence.md",
+      "ssot/site-blocks.md",
+      "ssot/identity.yaml",
+      "ssot/experience.md",
+      "ssot/awards.md",
+      "ssot/certifications.md",
+      "ssot/education.md",
+      "ssot/projects.md",
+      "templates/presence.json"
+    ],
+    "generator": "presence/scripts/build_presence.py"
+  },
+  "identity": {
+    "appointment_url": "https://l.gearoid.eu/appointment",
+    "blog_url": "https://l.gearoid.eu/blog",
+    "cv_short_url": "https://l.gearoid.eu/cv",
+    "github_short_url": "https://l.gearoid.eu/github",
+    "gitlab_short_url": "https://l.gearoid.eu/gitlab",
+    "headshot_path": "gearoid.webp",
+    "linkedin_short_url": "https://l.gearoid.eu/linkedin",
+    "location": "London, UK",
+    "name": "Gearóid Ó Treasaigh",
+    "portfolio_url": "https://gearoid.eu"
+  },
+  "projects": [
+    {
+      "end": "2015",
+      "name": "IBM Connections Toolbar for Firefox",
+      "portfolio": [
+        "A Firefox extension that let people search and use IBM Connections from the toolbar without navigating to it first. It began at an IBM Hackday in 2010, was built outside project work, and was released through OpenNTF under Apache 2.0 so it could reach users beyond the team that made it.",
+        "It reached over 6,000 users inside IBM and was voted People's Innovation Choice by IBM employees globally. The repository and the OpenNTF project page are both still live."
+      ],
+      "start": "2010",
+      "tagline": "Open-source Firefox extension, OpenNTF, Apache 2.0"
+    },
+    {
+      "end": "2019",
+      "name": "uCommand",
+      "portfolio": [
+        "IBM UrbanCode Deploy shipped a command-line tool that automated some common tasks and left a lot missing. uCommand closed that gap: creating versions of artifacts, instantiating installs, and selecting which version to install.",
+        "Two of the choices are worth more than the tool. It was written in PHP because that was the common language on the team, not the language its author might have preferred. And it was a command-line tool so that teams beyond SalesConnect could pick it up.",
+        "It outlived its architect's departure and a handover to teams on another continent."
+      ],
+      "start": "2014",
+      "tagline": "Deployment CLI closing the gaps in IBM UrbanCode Deploy",
+      "within": "ibm_devops_web_development_lead"
+    },
+    {
+      "end": "2026-09",
+      "name": "gSmith",
+      "portfolio": [
+        "gSmith's agents share a set of knowledge modules, splitting domain knowledge from agent behaviour so the rules live in one versioned source instead of being duplicated across prompts. A contract test suite fails the build when section citations, the roster or declared skills drift.",
+        "Inference cost is managed by tiering models to the task: mechanical compliance review on a cheap model, judgment-based review on Sonnet. One review pass is split into a cheap mechanical gate that runs the linters and an expensive judgment gate.",
+        "A module that would have taken a week to write and review could be done in a day, depending on complexity."
+      ],
+      "start": "2024",
+      "tagline": "Curriculum authoring and review toolkit, Claude Code",
+      "within": "insurer_enterprise_technical_instructor"
+    },
+    {
+      "end": "present",
+      "name": "Vita",
+      "portfolio": [
+        "An AI assistant for job applications, running in Claude Code, built for the contractors at the BriX partnership to write and tailor a CV, cover letter and LinkedIn profile. It writes only from what each person has actually done, so nothing goes on the page that they could not back up in an interview. The owner and every contractor in the partnership use it.",
+        "I evaluated changes to the agent with pre-registered, blind-graded A/B experiments, confirming one that cut its starting context by more than half and catching a confidentiality defect that a fix then kept out of every final output in a retest.",
+        "Its criteria are not invented, and each rule carries the evidence for it: marked as evidenced with its source, as convention where nothing has been measured, or as contested where sound evidence disagrees. A rule whose stated reason collapses is withdrawn rather than left borrowing authority it no longer has.",
+        "A LinkedIn profile gets no score at all, because no scoring rubric for one has ever been validated, and saying so is more useful than inventing a number."
+      ],
+      "start": "2026",
+      "tagline": "AI job-application assistant, Claude Code",
+      "within": "untangled_code_ltd_founder_technical_coach"
+    },
+    {
+      "end": "present",
+      "name": "jest-cucumber-fusion",
+      "portfolio": [
+        "An open-source npm package that lets a team write Cucumber feature files and run them inside an ordinary Jest run, coverage included. The original package had been archived, and the library it was built on had gone more than a year without a release, while the dependencies they pulled in collected known vulnerabilities.",
+        "Rather than patch around a library he did not control, he took over the package and rebuilt it directly on the official Cucumber parsers, using the nWave AI-agent delivery method. Teams keep their feature files and step definitions in shape, change the import name, and follow a short documented migration.",
+        "Beyond what Jest itself brings, the vulnerable packages it adds to a project went from 12, one of them critical, to zero (npm audit, October 2026)."
+      ],
+      "start": "2026-07",
+      "tagline": "Open-source npm package, Cucumber tests in Jest",
+      "within": "untangled_code_ltd_founder_technical_coach"
+    }
+  ],
+  "services": [
+    {
+      "name": "Software Craftsmanship Coach",
+      "summary": "Elevate your software development team to elite, to rapidly deliver products that delight the users."
+    },
+    {
+      "name": "DevOps Coach",
+      "summary": "Coach your DevOps team to incrementally improve your pipeline to elite."
+    },
+    {
+      "name": "Software Development Consultant",
+      "summary": "Deliver applications in JavaScript, TypeScript or Python through to production."
+    },
+    {
+      "name": "DevOps Consultant",
+      "summary": "Work with your team on improving the pipeline and building out the functionality needed."
+    }
+  ],
+  "target": "portfolio"
+}
