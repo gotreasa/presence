@@ -268,7 +268,6 @@
       "meta": "United Kingdom",
       "portfolio_prose": [
         "Coach teams from mediocre development practice to software craftsmanship, and on culture and ways of working.",
-        "Contribute to nWave, an AI-agent delivery methodology designed by others, improving it through use on live client delivery.",
         "Built Vita, an AI assistant for contractors at the BriX partnership that drafts CVs, cover letters and LinkedIn profiles only from what each person has done."
       ],
       "role": "Founder & Technical Coach",
@@ -282,7 +281,8 @@
       "meta": "London",
       "portfolio_prose": [
         "Take developers through the Software Craftsmanship Dojo, BriX Consulting's own graded programme, to its graduation standard.",
-        "Deliver the firm's client engagements as a partner and technical agile coach, through Untangled Code, which sub-contracts to BriX."
+        "Delivered the firm's engagements with Nederlandse Spoorwegen and a Fortune 100 insurer as a partner and technical agile coach, through Untangled Code, which sub-contracted them to BriX.",
+        "Contribute to nWave, an AI-agent delivery methodology from the BriX partnership, improving it through use on live client delivery."
       ],
       "role": "Technical Agile Coach & Partner, BriX Consulting s.r.o.",
       "start": "2023-12",
@@ -308,11 +308,11 @@
       "meta": "Remote",
       "portfolio_prose": [
         "Personally taught 800 of the over 3,000 engineers and product managers reached by an Extreme Programming and digital product upskilling programme inside a Fortune 100 insurer.",
-        "Coached up to five cross-functional teams at a time, including COBOL teams.",
+        "Coached up to five cross-functional teams at a time, including COBOL teams. Taught and coached Extreme Programming in COBOL, .NET, Java, Python and JavaScript: test-driven development, working with legacy code, refactoring, clean code and thorough testing.",
         "Coached three levels of leadership in both engineering and product above those teams on giving them cover to change.",
         "Delivered on a programme that achieved published gains for the client on three of the four industry-standard software-delivery measures."
       ],
-      "role": "Enterprise Technical Instructor",
+      "role": "Lead Enterprise Technical Instructor",
       "start": "2024-05",
       "via": "brix_consulting_s_r_o_technical_agile_coach"
     }
@@ -366,7 +366,7 @@
     "xpages.team_size": "13 people"
   },
   "generation": {
-    "content_hash": "ada5f4cbf10101b3980713d19e9b6597701d0a245f46ba939604dfa8ad57d7e3",
+    "content_hash": "820902a83d5b94b0c33f417c85fc4c8259077c4d1ac12fd933b8ab99ab3f1ca7",
     "derived_from": [
       "ssot/facts.yaml",
       "ssot/presence.md",
@@ -399,7 +399,7 @@
       "name": "IBM Connections Toolbar for Firefox",
       "portfolio": [
         "A Firefox extension that let people search and use IBM Connections from the toolbar without navigating to it first. It began at an IBM Hackday in 2010, was built outside project work, and was released through OpenNTF under Apache 2.0 so it could reach users beyond the team that made it.",
-        "It reached over 6,000 users inside IBM and was voted People's Innovation Choice by IBM employees globally. The repository and the OpenNTF project page are both still live."
+        "It reached over 6,000 users across IBM and enterprise customers, and was voted People's Innovation Choice by IBM employees globally. The repository and the OpenNTF project page are both still live."
       ],
       "start": "2010",
       "tagline": "Open-source Firefox extension, OpenNTF, Apache 2.0"
