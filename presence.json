@@ -56,10 +56,10 @@
     }
   ],
   "blocks": {
-    "services": "- **Software Craftsmanship Coach.** Elevate your software development team to elite, to rapidly deliver products that delight the users. - **DevOps Coach.** Coach your DevOps team to incrementally improve your pipeline to elite. - **Software Development Consultant.** Deliver applications in JavaScript, TypeScript or Python through to production. - **DevOps Consultant.** Work with your team on improving the pipeline and building out the functionality needed.",
+    "services": "- **Agentic engineering and AI developer tooling.** Build AI agent tooling on Claude Code for a team's software delivery. With gSmith, my curriculum authoring toolkit, now used by other authors, a module that would have taken a week to write and review could be done in a day, depending on complexity. - **Principal software engineering.** Set technical direction and change live systems without stopping them. At IBM, held architecture authority across a partner platform serving 200k users, and led the development that let three successive migrations run incrementally rather than as one cutover. - **Technical coaching and training.** Teach and coach Extreme Programming in COBOL, .NET, Java, Python and JavaScript. Personally taught 800 of over 3,000 engineers and product managers on a Fortune 100 insurer's upskilling programme. - **DevOps.** Make deployment routine rather than a weekend event. At IBM, led the team that took production deployment from up to 72 hours to two hours, freeing 2 people from deployment weekends and saving the operations team over 2,000 hours a year.",
     "short_bio": "Gearóid Ó Treasaigh is a software craftsmanship coach. He works inside engineering organisations, moving teams towards test-driven development, continuous delivery and clean code, and coaching the managers and product people alongside them, because a practice change that does not survive contact with product and management does not survive at all. He spent fifteen years at IBM as a developer, a lead and an architect before coaching full time, and now runs Untangled Code and is a partner at BriX Consulting. From 2024 to September 2026 he worked on an Extreme Programming and digital product upskilling programme inside a Fortune 100 insurer, delivered across three continents.",
-    "skills": "Bash, CSS, HTML, Java, JavaScript, Python, SQL and TypeScript. He also taught and coached teams on a Fortune 100 engagement, to September 2026, working across COBOL on a mainframe, C#, VB, Java, Python and JavaScript, which was Extreme Programming in those environments rather than development in them.",
-    "work_with_me": "Looking for a digital transformation, or struggling to deliver new features that truly delight your users? Gearóid works freelance across four kinds of engagement: coaching a development team towards software craftsmanship, coaching a DevOps team to improve its pipeline, consulting on delivery in JavaScript, TypeScript or Python, and consulting on pipeline and platform work alongside your team. An appointment can be booked directly."
+    "skills": "Bash, CSS, HTML, Java, JavaScript, Python, SQL and TypeScript. He also taught and coached teams on a Fortune 100 engagement, to September 2026, working across COBOL on a mainframe, .NET, Java, Python and JavaScript, which was Extreme Programming in those environments rather than development in them.",
+    "work_with_me": "Gearóid takes contract work through Untangled Code Ltd in agentic engineering and AI developer tooling, principal software engineering, technical coaching and training, and DevOps. He spent fifteen years at IBM as a developer, lead and architect, where his deployment automation earned an Outstanding Technical Achievement Award, and as a coach led a craftsmanship transformation across 1,000 developers. An appointment can be booked directly."
   },
   "certifications": [
     {
@@ -366,7 +366,7 @@
     "xpages.team_size": "13 people"
   },
   "generation": {
-    "content_hash": "337ecbb3e7c7e0fa81d45a9f16a5c9a6f7d1896e18b65514c6f021594fca16f3",
+    "content_hash": "56af415083e3462e9b46f65f660055bc0ba2400a9747274ebb185ba649403e09",
     "derived_from": [
       "ssot/facts.yaml",
       "ssot/presence.md",
@@ -457,20 +457,20 @@
   ],
   "services": [
     {
-      "name": "Software Craftsmanship Coach",
-      "summary": "Elevate your software development team to elite, to rapidly deliver products that delight the users."
+      "name": "Agentic engineering and AI developer tooling",
+      "summary": "Build AI agent tooling on Claude Code for a team's software delivery. With gSmith, my curriculum authoring toolkit, now used by other authors, a module that would have taken a week to write and review could be done in a day, depending on complexity."
     },
     {
-      "name": "DevOps Coach",
-      "summary": "Coach your DevOps team to incrementally improve your pipeline to elite."
+      "name": "Principal software engineering",
+      "summary": "Set technical direction and change live systems without stopping them. At IBM, held architecture authority across a partner platform serving 200k users, and led the development that let three successive migrations run incrementally rather than as one cutover."
     },
     {
-      "name": "Software Development Consultant",
-      "summary": "Deliver applications in JavaScript, TypeScript or Python through to production."
+      "name": "Technical coaching and training",
+      "summary": "Teach and coach Extreme Programming in COBOL, .NET, Java, Python and JavaScript. Personally taught 800 of over 3,000 engineers and product managers on a Fortune 100 insurer's upskilling programme."
     },
     {
-      "name": "DevOps Consultant",
-      "summary": "Work with your team on improving the pipeline and building out the functionality needed."
+      "name": "DevOps",
+      "summary": "Make deployment routine rather than a weekend event. At IBM, led the team that took production deployment from up to 72 hours to two hours, freeing 2 people from deployment weekends and saving the operations team over 2,000 hours a year."
     }
   ],
   "target": "portfolio"
