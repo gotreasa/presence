@@ -58,6 +58,7 @@
   "blocks": {
     "services": "- **Agentic engineering and AI developer tooling.** Build AI agent tooling on Claude Code for a team's software delivery. With gSmith, my curriculum authoring toolkit, now used by other authors, a module that would have taken a week to write and review could be done in a day, depending on complexity. - **Principal software engineering.** Set technical direction and change live systems without stopping them. At IBM, held architecture authority across a partner platform serving 200k users, and led the development that let three successive migrations run incrementally rather than as one cutover. - **Technical coaching and training.** Teach and coach Extreme Programming in COBOL, .NET, Java, Python and JavaScript. Personally taught 800 of over 3,000 engineers and product managers on a Fortune 100 insurer's upskilling programme. - **DevOps.** Make deployment routine rather than a weekend event. At IBM, led the team that took production deployment from up to 72 hours to two hours, freeing 2 people from deployment weekends and saving the operations team over 2,000 hours a year.",
     "short_bio": "Gearóid Ó Treasaigh is a software craftsmanship coach. He works inside engineering organisations, moving teams towards test-driven development, continuous delivery and clean code, and coaching the managers and product people alongside them, because a practice change that does not survive contact with product and management does not survive at all. He spent fifteen years at IBM as a developer, a lead and an architect before coaching full time, and now runs Untangled Code and is a partner at BriX Consulting. From 2024 to September 2026 he worked on an Extreme Programming and digital product upskilling programme inside a Fortune 100 insurer, delivered across three continents.",
+    "site_skills": "- **Agentic engineering and AI-assisted development.** Claude Code agents and skills, AI-agent delivery with the nWave method, and designing pre-registered, blind-graded split (A/B) experiments on agent changes. Built Vita, a job-application assistant for BriX contractors, and gSmith, a curriculum toolkit now used by other authors; contribute to the BriX partnership's nWave. - **Software craftsmanship and Extreme Programming.** Test-driven development (TDD), acceptance-test-driven development (ATDD), behaviour-driven development (BDD), pair programming, refactoring, clean code and working with legacy code. At IBM, took teams to XP Farm green belt; now maintain @g_package/jest-cucumber-fusion, an open-source package for Cucumber tests in Jest. - **Software architecture and API design.** Node.js microservices, API layers between systems, incremental migration off legacy systems, and architecture decision review. At IBM, architected microservices on Salesforce, led development of an API layer connecting Salesforce and SugarCRM, and led the team that replaced Siebel piece by piece while it stayed live. - **Continuous delivery and DevOps.** Continuous deployment on Jenkins, Travis, Docker and Cloud Foundry, release orchestration in IBM UrbanCode Deploy, and infrastructure as code in Terraform. Built deployment pipelines at IBM, delivering to production on IBM Cloud, and hardened nWave's continuous integration pipeline, contributing fixes across its releases. - **Coaching, mentoring and training.** Classroom teaching, embedded team and leadership coaching, mentoring and curriculum authoring. To September 2026, taught and coached teams at a Fortune 100 insurer, and coached three levels of leadership in both engineering and product; at IBM, coached 3 people into their first squad lead roles. - **Languages.** Write Bash, CSS, HTML, Java, JavaScript, Python and TypeScript, use SQL, and have written C and C++. To September 2026, taught and coached Extreme Programming on a Fortune 100 engagement in COBOL, .NET, Java, Python and JavaScript: the practice, not the languages themselves.",
     "skills": "Bash, CSS, HTML, Java, JavaScript, Python, SQL and TypeScript. He also taught and coached teams on a Fortune 100 engagement, to September 2026, working across COBOL on a mainframe, .NET, Java, Python and JavaScript, which was Extreme Programming in those environments rather than development in them.",
     "work_with_me": "Gearóid takes contract work through Untangled Code Ltd in agentic engineering and AI developer tooling, principal software engineering, technical coaching and training, and DevOps. He spent fifteen years at IBM as a developer, lead and architect, where his deployment automation earned an Outstanding Technical Achievement Award, and as a coach led a craftsmanship transformation across 1,000 developers. An appointment can be booked directly."
   },
@@ -366,7 +367,7 @@
     "xpages.team_size": "13 people"
   },
   "generation": {
-    "content_hash": "56af415083e3462e9b46f65f660055bc0ba2400a9747274ebb185ba649403e09",
+    "content_hash": "e6eeecfdbf7900e7ddf7b35111869569c0c42c432fff62d5a8b1d6347c3d7641",
     "derived_from": [
       "ssot/facts.yaml",
       "ssot/presence.md",
@@ -471,6 +472,32 @@
     {
       "name": "DevOps",
       "summary": "Make deployment routine rather than a weekend event. At IBM, led the team that took production deployment from up to 72 hours to two hours, freeing 2 people from deployment weekends and saving the operations team over 2,000 hours a year."
+    }
+  ],
+  "site_skills": [
+    {
+      "name": "Agentic engineering and AI-assisted development",
+      "summary": "Claude Code agents and skills, AI-agent delivery with the nWave method, and designing pre-registered, blind-graded split (A/B) experiments on agent changes. Built Vita, a job-application assistant for BriX contractors, and gSmith, a curriculum toolkit now used by other authors; contribute to the BriX partnership's nWave."
+    },
+    {
+      "name": "Software craftsmanship and Extreme Programming",
+      "summary": "Test-driven development (TDD), acceptance-test-driven development (ATDD), behaviour-driven development (BDD), pair programming, refactoring, clean code and working with legacy code. At IBM, took teams to XP Farm green belt; now maintain @g_package/jest-cucumber-fusion, an open-source package for Cucumber tests in Jest."
+    },
+    {
+      "name": "Software architecture and API design",
+      "summary": "Node.js microservices, API layers between systems, incremental migration off legacy systems, and architecture decision review. At IBM, architected microservices on Salesforce, led development of an API layer connecting Salesforce and SugarCRM, and led the team that replaced Siebel piece by piece while it stayed live."
+    },
+    {
+      "name": "Continuous delivery and DevOps",
+      "summary": "Continuous deployment on Jenkins, Travis, Docker and Cloud Foundry, release orchestration in IBM UrbanCode Deploy, and infrastructure as code in Terraform. Built deployment pipelines at IBM, delivering to production on IBM Cloud, and hardened nWave's continuous integration pipeline, contributing fixes across its releases."
+    },
+    {
+      "name": "Coaching, mentoring and training",
+      "summary": "Classroom teaching, embedded team and leadership coaching, mentoring and curriculum authoring. To September 2026, taught and coached teams at a Fortune 100 insurer, and coached three levels of leadership in both engineering and product; at IBM, coached 3 people into their first squad lead roles."
+    },
+    {
+      "name": "Languages",
+      "summary": "Write Bash, CSS, HTML, Java, JavaScript, Python and TypeScript, use SQL, and have written C and C++. To September 2026, taught and coached Extreme Programming on a Fortune 100 engagement in COBOL, .NET, Java, Python and JavaScript: the practice, not the languages themselves."
     }
   ],
   "target": "portfolio"
