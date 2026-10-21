@@ -58,7 +58,7 @@
   "blocks": {
     "services": "- **Software Craftsmanship Coach.** Elevate your software development team to elite, to rapidly deliver products that delight the users. - **DevOps Coach.** Coach your DevOps team to incrementally improve your pipeline to elite. - **Software Development Consultant.** Deliver applications in JavaScript, TypeScript or Python through to production. - **DevOps Consultant.** Work with your team on improving the pipeline and building out the functionality needed.",
     "short_bio": "Gearóid Ó Treasaigh is a software craftsmanship coach. He works inside engineering organisations, moving teams towards test-driven development, continuous delivery and clean code, and coaching the managers and product people alongside them, because a practice change that does not survive contact with product and management does not survive at all. He spent fifteen years at IBM as a developer, a lead and an architect before coaching full time, and now runs Untangled Code and is a partner at BriX Consulting. From 2024 to September 2026 he worked on an Extreme Programming and digital product upskilling programme inside a Fortune 100 insurer, delivered across three continents.",
-    "skills": "Bash, CSS, HTML, Java, JavaScript, Python, SQL and TypeScript. He also coaches teams on a Fortune 100 engagement working across COBOL on a mainframe, C#, VB, Java, Python and JavaScript, which is Extreme Programming coaching in those environments rather than development in them.",
+    "skills": "Bash, CSS, HTML, Java, JavaScript, Python, SQL and TypeScript. He also taught and coached teams on a Fortune 100 engagement, to September 2026, working across COBOL on a mainframe, C#, VB, Java, Python and JavaScript, which was Extreme Programming in those environments rather than development in them.",
     "work_with_me": "Looking for a digital transformation, or struggling to deliver new features that truly delight your users? Gearóid works freelance across four kinds of engagement: coaching a development team towards software craftsmanship, coaching a DevOps team to improve its pipeline, consulting on delivery in JavaScript, TypeScript or Python, and consulting on pipeline and platform work alongside your team. An appointment can be booked directly."
   },
   "certifications": [
@@ -190,7 +190,7 @@
     },
     {
       "employer": "IBM",
-      "end": "2019-05",
+      "end": "2019-04",
       "id": "ibm_javascript_full_stack_development_lead",
       "meta": "Dublin, Ireland",
       "portfolio_prose": [
@@ -224,7 +224,7 @@
       "portfolio_prose": [
         "Led the tribe that rebuilt deal registration as a single form, taking a partner from 30 minutes down to 5 minutes.",
         "The new form shows partners their discount up front, so they know their margin before pricing a deal.",
-        "Led the team to meet a tight deadline for moving the CRM behind the platforms from on-premise SugarCRM to the cloud.",
+        "Led the team to meet a tight deadline for moving the customer relationship management (CRM) system behind the platforms from on-premise SugarCRM to the cloud.",
         "Oversaw the move to OpenShift."
       ],
       "role": "Senior JavaScript Full Stack Development Lead (My Sales Activity)",
@@ -366,7 +366,7 @@
     "xpages.team_size": "13 people"
   },
   "generation": {
-    "content_hash": "820902a83d5b94b0c33f417c85fc4c8259077c4d1ac12fd933b8ab99ab3f1ca7",
+    "content_hash": "337ecbb3e7c7e0fa81d45a9f16a5c9a6f7d1896e18b65514c6f021594fca16f3",
     "derived_from": [
       "ssot/facts.yaml",
       "ssot/presence.md",
@@ -398,7 +398,7 @@
       "end": "2015",
       "name": "IBM Connections Toolbar for Firefox",
       "portfolio": [
-        "A Firefox extension that let people search and use IBM Connections from the toolbar without navigating to it first. It began at an IBM Hackday in 2010, was built outside project work, and was released through OpenNTF under Apache 2.0 so it could reach users beyond the team that made it.",
+        "A Firefox extension that let people search and use IBM Connections from the toolbar without navigating to it first. He co-created it with two colleagues at an IBM Hackday in 2010; it was built outside project work, and was released through OpenNTF under Apache 2.0 so it could reach users beyond the team that made it.",
         "It reached over 6,000 users across IBM and enterprise customers, and was voted People's Innovation Choice by IBM employees globally. The repository and the OpenNTF project page are both still live."
       ],
       "start": "2010",
@@ -413,7 +413,7 @@
         "It outlived its architect's departure and a handover to teams on another continent."
       ],
       "start": "2014",
-      "tagline": "Deployment CLI closing the gaps in IBM UrbanCode Deploy",
+      "tagline": "Deployment command-line interface (CLI) closing the gaps in IBM UrbanCode Deploy",
       "within": "ibm_devops_web_development_lead"
     },
     {
@@ -447,7 +447,8 @@
       "portfolio": [
         "An open-source npm package that lets a team write Cucumber feature files and run them inside an ordinary Jest run, coverage included. The original package had been archived, and the library it was built on had gone more than a year without a release, while the dependencies they pulled in collected known vulnerabilities.",
         "Rather than patch around a library he did not control, he took over the package and rebuilt it directly on the official Cucumber parsers, using the nWave AI-agent delivery method. Teams keep their feature files and step definitions in shape, change the import name, and follow a short documented migration.",
-        "Beyond what Jest itself brings, the vulnerable packages it adds to a project went from 12, one of them critical, to zero (npm audit, October 2026)."
+        "Beyond what Jest itself brings, the vulnerable packages it adds to a project went from 12, one of them critical, to zero (npm audit, October 2026).",
+        "It is published on npm as @g_package/jest-cucumber-fusion; the unscoped name still belongs to B-Yond's original package."
       ],
       "start": "2026-07",
       "tagline": "Open-source npm package, Cucumber tests in Jest",
